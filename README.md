@@ -2,7 +2,7 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Scala
+- 🌱 &nbsp;I’m currently learning rust
 - 💬 &nbsp;Ask me about anything related to python,golang and data engineer
 
 
